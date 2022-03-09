@@ -3,7 +3,7 @@
 Autor:            Gustavo Alejandro Mejia Mansilla
 Carnet:           201904140
 Tipo de archivo:  Libreto para crear un archivo.c
-Ejecución:        ./ejercicio2.sh
+Ejecución:        ./ejercicio3.sh
 Resumen:          Archivo que crea encabezados de archivos de C.
 Header
 
