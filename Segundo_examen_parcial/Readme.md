@@ -26,10 +26,8 @@ Dentro de esta carpeta se documentará y mostrará el código de los problemas d
 
 **Incisos del problema**
 - Recta que que mejor aproxima el crecimiento en las ganancias: y = 28.227352x + 602.714478
-- Gráfica inicial de los datos 
-  ![Problema1](Imagenes/Curva1a.jpeg)
-- Gráfica de y = 28.227352x + 602.714478
-  ![Problema1](Imagenes/Curva1b.jpeg)
+- Gráfica inicial de los datos ![Problema1](Imagenes/Curva1a.jpeg)
+- Gráfica de y = 28.227352x + 602.714478 ![Problema1](Imagenes/Curva1b.jpeg)
 - La ganancia aproximadas utilizando el método de mínimos cuadrados es de Q884,988.00 mientras la estimación del gobierno es de Q920,100.00
 
 **Compilación y ejecución:**
@@ -68,8 +66,7 @@ Dentro de esta carpeta se documentará y mostrará el código de los problemas d
 
 **Incisos del problema**
 - La raíz de la función f(x) = x + e^{x} es de -0.567143
-- Gráfica de la función f(x) = x + e^{x} 
-  ![Problema1](Imagenes/Curva2.jpeg)
+- Gráfica de la función f(x) = x + e^{x} ![Problema1](Imagenes/Curva2.jpeg)
 - Haciendo la comparación entre la gráfica de f(x) y el dato hallado por el programa, se puede notar que ambos resultados
   son casi los mismos
 
