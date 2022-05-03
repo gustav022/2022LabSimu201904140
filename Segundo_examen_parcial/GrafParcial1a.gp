@@ -8,4 +8,3 @@ set ylabel "Producción de cultivo de cardamomo (miles de quetzales)"
 set grid
 set style data linespoints
 plot "DatosParcial" using 1:2
-

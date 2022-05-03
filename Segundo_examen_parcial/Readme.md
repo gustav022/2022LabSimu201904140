@@ -67,11 +67,10 @@ Dentro de esta carpeta se documentará y mostrará el código de los problemas d
 12. Finaliza el programa
 
 **Incisos del problema**
-- La raíz de la función f(x) = x + e^{x} es -0.567143
-- Gráfica de la función f(x) = x + e^{x} 
+- La raíz de la función f(x) = x + e^(x) es -0.567143
+- Gráfica de la función f(x) = x + e^(x) 
 - ![Problema1](Imagenes/Curva2.jpeg)
-- Haciendo la comparación entre la gráfica de f(x) y el dato hallado por el programa, se puede notar que ambos resultados
-  son casi los mismos
+- Haciendo la comparación entre la gráfica de f(x) y el valor encontrado por el programa, se puede notar que ambos resultados son bastante parecidos
 
 
 **Compilación y ejecución:**
