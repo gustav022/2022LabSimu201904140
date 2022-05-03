@@ -36,7 +36,7 @@ Dentro de esta carpeta se documentará y mostrará el código de los problemas d
 
 **Compilación y ejecución:**
 ```
- $ gcc -o MinCuadrados MinCuadrados.c -lm
+ $ gcc -o MinCuadrados.out MinCuadrados.c -lm
  $ ./MinCuadrados.out
  ```
 
@@ -81,6 +81,6 @@ Dentro de esta carpeta se documentará y mostrará el código de los problemas d
 
 **Compilación y ejecución:**
 ```
- $ gcc -o Newt-Raph -lm Newt-Raph.c -lm
+ $ gcc -o Newt-Raph.out -lm Newt-Raph.c -lm
  $ ./Newt-Raph.out
  ```
