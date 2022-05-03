@@ -4,7 +4,6 @@ Dentro de esta carpeta se documentará y mostrará el código de los problemas d
 
 ### **Problema 1**
 
-**Incisos**
 ![Problema1](Imagenes/P1.JPG)
 
 **Diagrama de flujo**
@@ -43,7 +42,7 @@ Dentro de esta carpeta se documentará y mostrará el código de los problemas d
 
  ### **Problema 2**
 
- **Incisos** ![Problema1](Imagenes/P2.JPG)
+![Problema1](Imagenes/P2.JPG)
 
 **Diagrama de flujo**
 ![Problema1](Imagenes/NewRap.jpeg)
