@@ -1,7 +1,7 @@
 /*
 #"Autor:      gustavo"
 #"Compilador: gcc (Ubuntu 9.4.0-1ubuntu1~20.04) 9.4.0"
-#"Compilado:  gcc -o MinCuadrados MinCuadrados.c -lm"
+#"Compilado:  gcc -o MinCuadrados.out MinCuadrados.c -lm"
 #"Fecha:      04/26/22"
 #"Librerias:  stdio, math"
 #"Resumen     Ejemplo del método matemático de mínimos cuadrados"

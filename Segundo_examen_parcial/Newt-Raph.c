@@ -1,7 +1,7 @@
 /*
 #"Autor:      gustavo"
 #"Compilador: gcc (Ubuntu 9.4.0-1ubuntu1~20.04) 9.4.0"
-#"Compilado:  gcc -o Newt-Raph -lm Newt-Raph.c -lm"
+#"Compilado:  gcc -o Newt-Raph.out -lm Newt-Raph.c -lm"
 #"Fecha:      04/25/22"
 #"Librerias:  stdio, math"
 #"Resumen     Programa que realiza el método matemático de Newton Raphson para calcular las raíces de una función no lineal"

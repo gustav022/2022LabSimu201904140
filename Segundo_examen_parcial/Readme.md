@@ -1,8 +1,11 @@
-# Problemas del segundo parcial
+# Problemas del segundo parcial (201904140)
 
 Dentro de esta carpeta se documentará y mostrará el código de los problemas del segundo examen parcial de Laboratorio de simulación.
 
-### Problema 1
+### **Problema 1**
+
+**Incisos**
+![Problema1](Imagenes/P1.JPG)
 
 **Diagrama de flujo**
 ![Problema1](Imagenes/MinCuadrados.jpeg)
@@ -24,7 +27,7 @@ Dentro de esta carpeta se documentará y mostrará el código de los problemas d
 - Se halla el valor de b usando las funciones "suma" y "sumaMulti"
 - Se calcula el valor de r. De nuevo, se usan las funciones "suma" y "sumaMulti".
 
-**Incisos del problema**
+**Respuestas del problema**
 - Recta que que mejor aproxima el crecimiento en las ganancias: y = 28.227352x + 602.714478
 - Gráfica inicial de los datos 
 - ![Problema1](Imagenes/Curva1a.jpeg)
@@ -38,7 +41,11 @@ Dentro de esta carpeta se documentará y mostrará el código de los problemas d
  $ ./MinCuadrados.out
  ```
 
- ### Problema 2
+ ### **Problema 2**
+
+ **Incisos** ![Problema1](Imagenes/P2.JPG)
+
+**Diagrama de flujo**
 ![Problema1](Imagenes/NewRap.jpeg)
 **Variables de entrada y salida:**
 - x0   = Estimación inicial de la raíz (variable de entrada)
@@ -66,7 +73,7 @@ Dentro de esta carpeta se documentará y mostrará el código de los problemas d
 11. Se imprime la raíz x1
 12. Finaliza el programa
 
-**Incisos del problema**
+**Respuestas del problema**
 - La raíz de la función f(x) = x + e^(x) es -0.567143
 - Gráfica de la función f(x) = x + e^(x) 
 - ![Problema1](Imagenes/Curva2.jpeg)
