@@ -15,6 +15,9 @@ Dentro de esta carpeta se documentará y mostrará el código de los problemas d
 - b   = Intercepto
 - m   = Pendiente
 - r   = Coeficiente de correlación
+- anh = Valor asignado a x en la función y = mx +b para dar la aproximación de la producción de cardamomo 
+- ans = Valor de la producción de cardamomo en el año ingreasado por el usuario
+- resp = Respuesta de m*ans + b
 
 **Metodología:**
 - Se divide el problema en 3 funciones para luego llamarlas durante el programa
@@ -22,9 +25,13 @@ Dentro de esta carpeta se documentará y mostrará el código de los problemas d
 - Se crea una función que realiza la suma de los elementos de los vectores ingresados llamada "suma"
 - Se hace una función que realiza el "producto punto" de los dos vectores ingresados. Esta se llama "sumaMulti"
 - Se llama la función "imprimir" para presentar los valores de x y y.
+- Se genera la primera gráfica usando los valores de la tabla.
 - Se calcula el valor de m según la fórmula matemática. Para esto, se llaman las funciones "sumaMulti" y "suma"
 - Se halla el valor de b usando las funciones "suma" y "sumaMulti"
 - Se calcula el valor de r. De nuevo, se usan las funciones "suma" y "sumaMulti".
+- Se pide al usuario ingresar el año del que desea saber la producción aproximada de cardamomo.
+- Se guarda el dato ingresado por el usuario para luego meterlo en una nueva operación y así obtener la producción aproximada de cardamomo.
+- Se genera la segunda gráfica tomando en cuenta la recta generada por el programa.
 
 **Respuestas del problema**
 - Recta que que mejor aproxima el crecimiento en las ganancias: y = 28.227352x + 602.714478

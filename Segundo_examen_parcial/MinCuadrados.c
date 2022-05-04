@@ -44,7 +44,7 @@ void main(){
     printf("Ingrese el año al que quiere saber la aproximación (el año debe de ser después de 2013):\n");
     scanf("%f",&anh); 
     printf("La aproximación para el año ingresado es:\n");
-    ans = (anh - 2013);
+    ans = (anh - 2013 +1);
     resp = m*ans + b;
     //Se imprime el valor de la producción de cardamomo en el año ingreasado por el usuario
     printf("%f \n", resp);
