@@ -1,7 +1,7 @@
 /*
 #"Autor:      gustavo"
 #"Compilador: gcc (Ubuntu 9.4.0-1ubuntu1~20.04) 9.4.0"
-#"Compilado:  gcc -o Problema_1 Problema_1.c
+#"Compilado:  gcc -o Problema_1.out Problema_1.c"
 #"Fecha:      03/28/22"
 #"Librerias:  stdio"
 #"Resumen     Programa que realiza la media aritmética de los números ingresados"

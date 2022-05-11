@@ -28,7 +28,7 @@ cat << EOF > $Archivo1
 /*
 #"Autor:      $USER"
 #"Compilador: $leerversion"
-#"Compilado:  gcc -o $Archivo $Archivo.c"
+#"Compilado:  gcc -o $Archivo.out $Archivo.c"
 #"Fecha:      $(date +%D)"
 #"Librerias:  stdio"
 #"Resumen     $resumen"

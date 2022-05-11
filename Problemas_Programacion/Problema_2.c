@@ -1,7 +1,7 @@
 /*
 #"Autor:      gustavo"
 #"Compilador: gcc (Ubuntu 9.4.0-1ubuntu1~20.04) 9.4.0"
-#"Compilado:  "
+#"Compilado:  gcc -o Problema_2.out Problema_2.c"
 #"Fecha:      03/28/22"
 #"Librerias:  stdio"
 #"Resumen     El programa recibirá n número de alturas y termina de obtener datos al ingresarse una altura negativa. Por último, este programa devuelve el valor del promedio máximo y mínimo de los datos"
@@ -17,7 +17,7 @@ float med=0;
 
 int main(){
 //Se leen los datos ingresados
-    puts("Bienvenido. Ingrese valores enteros de alturas y para terminar ingrese un valor negativo");
+    puts("¡Bienvenido! Ingrese valores enteros de alturas y para terminar ingrese un valor negativo");
     puts("Ingrese una altura: ");
     scanf("%d", &x);
 //Se almacena el valor de altura en min y max
@@ -51,7 +51,7 @@ int main(){
     else
     {
 //Se imprimen la media, el valor máximo y mínimo
-        printf("De los valores ingresados: La media es: %f, \n El valor máximo es: %d, \n El valor mínimo es: %d \n", med/n, max, min);
+        printf("De los valores ingresados: La media es: %f, \n El valor máximo es: %d \n El valor mínimo es: %d \n", med/n, max, min);
     }
     
 
