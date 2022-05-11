@@ -4,7 +4,7 @@
 #"Compilado:  gcc -o Problema_5 Problema_5.c"
 #"Fecha:      04/05/22"
 #"Librerias:  stdio"
-#"Resumen     Ejemplo de"
+#"Resumen     Programa que lee dos números enteros para generar un rango para luego mostrar todos los números primos que se encuentran en ese intervalo"
 #"Entrada:    USB"
 #"Salida:     USB"
 */
@@ -37,16 +37,16 @@ int main() {
 //Se define la función para verificar si el número es primo
 int primo(int N){
   //Se inicializan las variables
-  int i = 2, value = 1;
+  int j = 2, value = 1;
   //Se inicia el bucle. Las condiciones a cumplir son: i < N - 1 && value == 1
-  while (i < N - 1 && value == 1) {
+  while (j < N - 1 && value == 1) {
     //Se determina si N es divisible entre i
-    if (N % i == 0) {
+    if (N % j == 0) {
       //Si resulta ser divisible, implica que no es primo, por lo que se cambia el valor de la variable
       value = 0;
     }
     //Se aumenta el contador
-    i++;
+    j++;
   }
   return value;
 }
