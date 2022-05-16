@@ -36,7 +36,7 @@ cat << EOF > $Archivo1
 #"Salida:     $salida"
 */
 //Librerias
-#include <stdio.h>
+#include <studio.h>
 //listar los pasos del pseudocódigo
 EOF
 exit 0 #Comando que desactiva los mensajes de advertencias del sistema.

@@ -23,7 +23,7 @@ int main(){
 	//Se solicita el orden en que se quieren ver los elementos del vector
 	puts("Elija el orden en que desea ver los elementos: \n'a'=ascendente\n'd'=descendente");
 	scanf("%s", &c);
-	//Se impide pasar al usario si no ingresa lo solicitado usando un condicional
+	//Se impide pasar al usuario si no ingresa lo solicitado usando un condicional
 	while(c != 'd' && c != 'a'){
 		puts("Digitó un carácter incorrecto. Vuelva a intentarlo");
 		puts("Elija el orden en que desea ver los elementos: \n'a'=ascendente\n'd'=descendente");
